@@ -20,7 +20,7 @@ I am a **Full Stack Developer** with a Master of Computer Applications (MCA). I 
 
 ### 📈 Featured Projects
 
-#### 📱 [Automatic Pet Care Service](https://github.com)
+#### 📱 [Automatic Pet Care Service](https://github.com/SWETHA8685/Automatic-petcare-)
 * Built an Android application using Java and Firebase for real-time pet tracking, lowering manual tracking efforts by **40%**.
 * Connected Google Drive API to securely catalog **10,000+ computerized health records**.
 * Engineered an automated push alert pipelines delivering **5,000+ real-time alerts** monthly via Firebase Cloud Messaging.
