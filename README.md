@@ -42,4 +42,4 @@ I am a **Full Stack Developer** with a Master of Computer Applications (MCA). I 
 ### 📬 Let's Connect!
 * 💼 **LinkedIn:**https://www.linkedin.com/in/swetha-t-6152632b1
 * 📧 **Email:** swetha.t635@gmail.com
-* 📝 **Medium:** [Insert your Medium Profile Link here]
+
