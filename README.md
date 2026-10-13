@@ -3,7 +3,6 @@
 I am a **Full Stack Developer** with a Master of Computer Applications (MCA). I specialize in building optimized architectures using the **MERN Stack**, developing secure REST APIs, and crafting cross-platform mobile apps with **React Native**. Alongside engineering, I break down complex technical architectures as a **Technical Content Writer on Medium**.
 
 - 🛠️ Worked as a **Software Engineer Intern** at **Bitfix Technologies**.
-- 📝 Currently publishing technical insights and software engineering guides on **Medium**.
 - 🎓 MCA Graduate from **Cochin University of Science and Technology** (**CGPA: 9.16** | 2nd Class Topper).
 - 🏆 **CodeChef Silver Badge** holder (Solved 250+ Data Structures & Algorithms problems).
 
